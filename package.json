@@ -1,0 +1,23 @@
+{
+  "name": "synthetics-proof-of-concept",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lighthouseMetrics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brntsllvn/synthetics-proof-of-concept.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brntsllvn/synthetics-proof-of-concept/issues"
+  },
+  "homepage": "https://github.com/brntsllvn/synthetics-proof-of-concept#readme",
+  "dependencies": {
+    "lighthouse": "^6.0.0",
+    "puppeteer": "^3.3.0"
+  }
+}
